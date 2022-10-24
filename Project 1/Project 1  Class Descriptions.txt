@@ -1,0 +1,12 @@
+Class Descriptions:
+
+1. Film - A Film is displayed in a specific Room inside a Theater for a certain Showing.
+2. Theater - A Theater is a large building that has many Rooms that show multiple
+3. Showings of multiple Films.
+4. Room - A Room is the specific location in a Theater that shows many Showings of
+many Films.
+5. Seat - A Seat is located within a Room at a Theater that is reserved with a Ticket to
+view a specific Showing of a Film.
+6. Showing - A Showing is when a Film is shown at a specific Room at a Theater.
+7. Ticket - A Ticket selects a Seat from the Room at a Theater for a specific Showing of a
+Film
